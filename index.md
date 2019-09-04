@@ -1,10 +1,12 @@
 # Instructor
 
 Robert Domanski<br>
-rdomanski@kean.edu
+rdomansk@kean.edu
 
 
 # Course Description
+
+Syllabus
 
 This course will cover fundamental concepts and standards for Web client-side development. Design and development of client-side Web pages using Hypertext Markup Language (HTML), Extensible Hypertext Markup Language (XHTML), Javascript, Cascading Style Sheets (CSS), Document Object Model (DOM), Asynchronous Javascript and XML (AJAX), and Web Browsers.
 
