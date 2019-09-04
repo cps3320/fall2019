@@ -3,11 +3,9 @@ layout: default
 ---
 
 # Instructor
-<p>
+
 Robert Domanski
-  <br>
 rdomanski@kean.edu
-  <p>
 
 
 # Course Description
