@@ -29,5 +29,8 @@ Upon successful completion of this course, students will have advanced skills to
 - Understand the professional landscape and industry hiring practices as they relate to pursuing careers in the fields of Web Development and Computer Science
 
 
+# September 4th
+
+- Please take this <a href="https://drive.google.com/open?id=1H35dM7x69TCMM71Vi_8-FQ8DLUW43IR2H9ZuWSV_4dA">Anonymous Student Survey</a>
 
 
