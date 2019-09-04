@@ -1,7 +1,7 @@
 # Instructor
 
 Robert Domanski<br>
-rdomansk@kean.edu
+<a href="mailto:rdomanski@kean.edu">rdomansk@kean.edu</a>
 
 
 # Syllabus & Course Description
