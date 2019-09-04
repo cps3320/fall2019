@@ -1,6 +1,6 @@
 # Instructor
 
-Robert Domanski
+Robert Domanski<br>
 rdomanski@kean.edu
 
 
