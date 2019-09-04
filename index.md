@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Instructor
 
 Robert Domanski
