@@ -31,6 +31,8 @@ Upon successful completion of this course, students will have advanced skills to
 
 # September 4th
 
+- Slides
+- <a href="https://drive.google.com/open?id=1QUuK4LnBcTsDhrVsBwtNdgyjqDM35s6a">Instructions for setting up your Server account</a>
 - Please take this <a href="https://drive.google.com/open?id=1H35dM7x69TCMM71Vi_8-FQ8DLUW43IR2H9ZuWSV_4dA">Anonymous Student Survey</a>
 
 
