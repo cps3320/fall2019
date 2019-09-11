@@ -33,14 +33,14 @@ Upon successful completion of this course, students will have advanced skills to
 
 # September 4th
 
-- <a href="https://drive.google.com/open?id=1wHQ7YNHmG5ozL4hjUQUFBodJ-1ThibLA">Slides</a>
+- <a href="https://drive.google.com/open?id=1bMMVG-OXXpx89w0eEP89oJCam3hTGu8Y">Slides</a>
 - <a href="https://drive.google.com/open?id=1QUuK4LnBcTsDhrVsBwtNdgyjqDM35s6a">Instructions for setting up your Server account</a>
 - Please take this <a href="https://drive.google.com/open?id=1H35dM7x69TCMM71Vi_8-FQ8DLUW43IR2H9ZuWSV_4dA">Anonymous Student Survey</a>
 
 
 # September 11th
 
-- <a href="https://drive.google.com/open?id=1ijzKKZpFPWU6isfbQ_g6WV1mIlTSrzgP">Slides</a>
+- <a href="https://drive.google.com/open?id=1wHQ7YNHmG5ozL4hjUQUFBodJ-1ThibLA">Slides</a>
 - <a href="https://drive.google.com/open?id=1Lpqgqj8cn6e_CrtBFasGiNpjpb3SZQFv">Starter code for every HTML page</a>
 - <a href="https://www.w3schools.com/tags">Comprehensive list of HTML Tags</a> with descriptions and code samples
 - <a href="https://www.w3schools.com/colors/colors_names.asp">Comprehensive list of HTML Color Codes</a>
