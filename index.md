@@ -47,4 +47,3 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://www.w3schools.com/colors/colors_names.asp">Comprehensive list of HTML Color Codes</a>
 
 <p><p><p><p>
-https://www.w3schools.com/tags
