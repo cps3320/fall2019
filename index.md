@@ -40,6 +40,7 @@ Upon successful completion of this course, students will have advanced skills to
 
 # September 11th
 
+- <b>HOMEWORK</b> for next week:  Complete activities #4 and #5 in the slides (Create a personal website and create a derivative website).
 - <a href="https://drive.google.com/open?id=1wHQ7YNHmG5ozL4hjUQUFBodJ-1ThibLA">Slides</a>
 - <a href="https://drive.google.com/open?id=1Lpqgqj8cn6e_CrtBFasGiNpjpb3SZQFv">Starter code for every HTML page</a>
 - <a href="https://www.w3schools.com/tags">Comprehensive list of HTML Tags</a> with descriptions and code samples
