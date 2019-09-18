@@ -50,6 +50,8 @@ Upon successful completion of this course, students will have advanced skills to
 # September 18th
 
 - Slides
+- Example:  TABLES
+- <a href="https://eve.kean.edu/~rdomansk/forms.html">Example:  FORMS</a>
 - <a href="https://www.cleverism.com/web-design-principles-successful-websites/">Principles of Effective Web Design</a>
 - <a href="http://validator.w3.org/">HTML5 Validation Service</a>
 - <a href="https://dev.w3.org/html5/html-author/">Official HTML5 Reference from the World Wide Web Consortium</a>
