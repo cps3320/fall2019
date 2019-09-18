@@ -47,3 +47,10 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://www.w3schools.com/colors/colors_names.asp">Comprehensive list of HTML Color Codes</a>
 
 
+# September 18th
+
+- Slides
+- <a href="https://www.cleverism.com/web-design-principles-successful-websites/">Principles of Effective Web Design</a>
+- <a href="http://validator.w3.org/">HTML5 Validation Service</a>
+- <a href="https://dev.w3.org/html5/html-author/">Official HTML5 Reference from the World Wide Web Consortium</a>
+
