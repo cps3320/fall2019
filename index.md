@@ -42,16 +42,18 @@ Upon successful completion of this course, students will have advanced skills to
 
 - <b>HOMEWORK</b> for next week:  Complete activities #4 and #5 in the slides (Create a personal website and create a derivative website).
 - <a href="https://drive.google.com/open?id=1wHQ7YNHmG5ozL4hjUQUFBodJ-1ThibLA">Slides</a>
-- <a href="https://drive.google.com/open?id=1Lpqgqj8cn6e_CrtBFasGiNpjpb3SZQFv">Starter code for every HTML page</a>
+- <a href="https://drive.google.com/open?id=1Lpqgqj8cn6e_CrtBFasGiNpjpb3SZQFv">EXAMPLE: Starter code for every HTML page</a>
+
 - <a href="https://www.w3schools.com/tags">Comprehensive list of HTML Tags</a> with descriptions and code samples
 - <a href="https://www.w3schools.com/colors/colors_names.asp">Comprehensive list of HTML Color Codes</a>
 
 
 # September 18th
 
-- Slides
-- Example:  TABLES
-- <a href="https://eve.kean.edu/~rdomansk/forms.html">Example:  FORMS</a>
+- <a href="https://drive.google.com/open?id=1hOPEZxIMPL4XNonV7K24yw0OPuQ4l1DX">Slides</a>
+- <a href="https://eve.kean.edu/~rdomansk/forms.html">Example: FORMS</a>
+- <a href="https://github.com/tech3500/git-activity>GitHub: ROLLCALL</a>
+  
 - <a href="https://www.cleverism.com/web-design-principles-successful-websites/">Principles of Effective Web Design</a>
 - <a href="http://validator.w3.org/">HTML5 Validation Service</a>
 - <a href="https://dev.w3.org/html5/html-author/">Official HTML5 Reference from the World Wide Web Consortium</a>
