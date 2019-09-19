@@ -41,6 +41,7 @@ Upon successful completion of this course, students will have advanced skills to
 # September 11th
 
 - <b>HOMEWORK</b> for next week:  Complete activities #4 and #5 in the slides (Create a personal website and create a derivative website).
+
 - <a href="https://drive.google.com/open?id=1wHQ7YNHmG5ozL4hjUQUFBodJ-1ThibLA">Slides</a>
 - <a href="https://drive.google.com/open?id=1Lpqgqj8cn6e_CrtBFasGiNpjpb3SZQFv">EXAMPLE: Starter code for every HTML page</a>
 
@@ -50,7 +51,9 @@ Upon successful completion of this course, students will have advanced skills to
 
 # September 18th
 
-- <a href="https://drive.google.com/open?id=1hOPEZxIMPL4XNonV7K24yw0OPuQ4l1DX">Slides</a>
+- <b>HOMEWORK</b> for next week:  1) Get your EVE server working! 2) Complete the GitHub "rollcall" activity (Activity #3 in the slides), and 3) Continue improving your personal website.
+
+- <a href="https://drive.google.com/open?id=1V7qdYCCLwW4bYN-3Ldh35_DAGdab7jCC">Slides</a>
 - <a href="https://eve.kean.edu/~rdomansk/forms.html">Example: FORMS</a>
 - <a href="https://github.com/tech3500/git-activity">GitHub: ROLLCALL</a>
   
