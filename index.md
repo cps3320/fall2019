@@ -61,3 +61,12 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="http://validator.w3.org/">HTML5 Validation Service</a>
 - <a href="https://dev.w3.org/html5/html-author/">Official HTML5 Reference from the World Wide Web Consortium</a>
 
+
+
+# September 25th
+
+- <b>HOMEWORK</b> for next week:  Work on your PROJECT!
+
+- <a href="https://drive.google.com/open?id=1x_sT0RKo8qEJPlHh1EtJKxK0761wmw8d">Slides</a>
+- <a href="https://drive.google.com/open?id=1W1daZaofkyxh0pK74Dox6WsRatgyNYiH">Bootstrap Starter Code</a>
+- <a href="">Sample Bootstrap repo</a>
