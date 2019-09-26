@@ -70,3 +70,6 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://drive.google.com/open?id=1x_sT0RKo8qEJPlHh1EtJKxK0761wmw8d">Slides</a>
 - <a href="https://drive.google.com/open?id=1W1daZaofkyxh0pK74Dox6WsRatgyNYiH">Bootstrap starter code</a>
 - <a href="https://github.com/alfonso222/BootStrap-4-Workshop">Sample Bootstrap repo</a>
+- <a href="https://moshetrenk.com/">Example personal website #1</a>  |  <a href="http://alfonsorayo.com/">Example personal website #2</a>
+
+
