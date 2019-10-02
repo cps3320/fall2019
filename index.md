@@ -78,7 +78,13 @@ Upon successful completion of this course, students will have advanced skills to
 
 - <b>HOMEWORK</b> for next week:  PROJECT!
 
-- <a href="">Slides</a>
+- <a href="https://drive.google.com/open?id=1Mna5SC4BdYDFNsU9FocjUZzda_U8iDTE">Slides</a>
 - <a href="http://www.w3schools.com/CSSref">CSS Reference</a>
+- EXAMPLE:  In-line CSS
+- EXAMPLE:  Embedded CSS
+- EXAMPLE:  External CSS (html file)  |  (css file)
+
+
+
 
 
