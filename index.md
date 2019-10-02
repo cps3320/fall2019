@@ -73,3 +73,12 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://moshetrenk.com/">Example personal website #1</a>  |  <a href="http://alfonsorayo.com/">Example personal website #2</a>
 
 
+
+# October 2nd
+
+- <b>HOMEWORK</b> for next week:  PROJECT!
+
+- <a href="">Slides</a>
+- <a href="http://www.w3schools.com/CSSref">CSS Reference</a>
+
+
