@@ -70,7 +70,7 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="https://drive.google.com/open?id=1x_sT0RKo8qEJPlHh1EtJKxK0761wmw8d">Slides</a>
 - <a href="https://drive.google.com/open?id=1W1daZaofkyxh0pK74Dox6WsRatgyNYiH">Bootstrap starter code</a>
 - <a href="https://github.com/alfonso222/BootStrap-4-Workshop">Sample Bootstrap repo</a>
-- <a href="https://moshetrenk.com/">Example personal website #1</a>    <a href="http://alfonsorayo.com/">Example personal website #2</a>
+- <a href="https://moshetrenk.com/">Example personal website #1</a>  ---  <a href="http://alfonsorayo.com/">Example personal website #2</a>
 
 
 
@@ -82,7 +82,7 @@ Upon successful completion of this course, students will have advanced skills to
 - <a href="http://www.w3schools.com/CSSref">CSS Reference</a>
 - <a href="https://drive.google.com/open?id=1umGIRaKspyuYir3bSrfHYJvxBzVTD7of">EXAMPLE:  In-line CSS</a>
 - <a href="https://drive.google.com/open?id=1NZZ7O-Z0R8dj1CG01gPqK8agSPRItqcL">EXAMPLE:  Embedded CSS</a>
-- EXAMPLE:  External CSS <a href="https://drive.google.com/open?id=1F1VKFRE7E1C00yKUs0fxAn1dKcC5APeS">(html file)</a>    <a href="https://drive.google.com/open?id=1fCcKE4r1l8wa9Tz_aQw_wTwBNwitjXs0">(css file)</a>
+- EXAMPLE:  External CSS <a href="https://drive.google.com/open?id=1F1VKFRE7E1C00yKUs0fxAn1dKcC5APeS">(html file)</a>  ---  <a href="https://drive.google.com/open?id=1fCcKE4r1l8wa9Tz_aQw_wTwBNwitjXs0">(css file)</a>
 
 
 
