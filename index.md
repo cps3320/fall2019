@@ -96,10 +96,9 @@ Upon successful completion of this course, students will have advanced skills to
 
 - <b>HOMEWORK</b> for next week:  Practice CSS Menus, CSS Text Effects, Border-radius, and the Z-index
 
-- Slides
-- EXAMPLES:  CSS Menus #1 ---  CSS Menus #2  ---  CSS Menus #3
-- EXAMPLES:  CSS Layers #1  ---  CSS Layers #2
-- EXAMPLE:  CSS Text Effects
-- EXAMPLE:  CSS Border-radius
+- <a href="https://drive.google.com/open?id=1z1Isx88XiS3u9SRPpQpY1krn8U06SeFW">Slides</a>
+- EXAMPLES:  <a href="https://drive.google.com/open?id=1nJrdNRO74bRV5tHTSiwx4Vl476skcJ62">CSS Menus #1</a> ---  <a href="https://drive.google.com/open?id=1y_W5tTMQJSGdGA2dqeDNicv5JJKgM2Rn">CSS Menus #2</a>  ---  <a href="https://drive.google.com/open?id=1cFfzTUpCkW6yps6bUf_LgGq27oo5bpcy">CSS Menus #3</a>
+- EXAMPLES:  <a href="https://drive.google.com/open?id=1sWUd41P1yr5WDFDJWW8mgGBkpvAOLSqA">CSS Layers #1</a>  ---  <a href=""https://drive.google.com/open?id=1jBMonlqCIE93BOeony0LztFHNHe8rELC">CSS Layers #2</a>
+- EXAMPLE:  <a href="https://drive.google.com/open?id=17lYwuVph7TWztJ4tfcmN0V91Pp-WfKMX">CSS Text Effects</a>
 
 
