@@ -85,10 +85,21 @@ Upon successful completion of this course, students will have advanced skills to
 - EXAMPLE:  External CSS <a href="https://drive.google.com/open?id=1F1VKFRE7E1C00yKUs0fxAn1dKcC5APeS">(html file)</a>  ---  <a href="https://drive.google.com/open?id=1fCcKE4r1l8wa9Tz_aQw_wTwBNwitjXs0">(css file)</a>
 
 
-# October 2nd
+# October 9th
 
-- <b>HOMEWORK</b> for next week:  Practice CSS in general, and CSS Menus in particular
+- <b>HOMEWORK</b> for next week:  Practice CSS
+
+- Project Presentations
+
+
+# October 16th
+
+- <b>HOMEWORK</b> for next week:  Practice CSS Menus, CSS Text Effects, Border-radius, and the Z-index
 
 - Slides
+- EXAMPLES:  CSS Menus #1 ---  CSS Menus #2  ---  CSS Menus #3
+- EXAMPLES:  CSS Layers #1  ---  CSS Layers #2
+- EXAMPLE:  CSS Text Effects
+- EXAMPLE:  CSS Border-radius
 
 
