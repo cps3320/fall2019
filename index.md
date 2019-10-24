@@ -102,3 +102,17 @@ Upon successful completion of this course, students will have advanced skills to
 - EXAMPLE:  <a href="https://drive.google.com/open?id=17lYwuVph7TWztJ4tfcmN0V91Pp-WfKMX">CSS Text Effects</a>
 
 
+# October 23rd
+
+- <b>HOMEWORK</b> for next week:  <a href="https://drive.google.com/open?id=1ZVfNLv0m7slZoaZVH6mN2Gi3O6NBA58h">Project #2</a>!
+
+- <a href="https://drive.google.com/open?id=1LZfNCw-uiyQcbjhJz8o-mxZOpV0sFzUY">Slides</a>
+- Topics:
+-- UX/UI
+-- Design Thinking
+-- SEO
+-- Domain Names and Cybersquatting
+
+
+
+
