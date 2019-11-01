@@ -1,8 +1,3 @@
-# ***CLASS IS CANCELLED WEDNESDAY, OCTOBER 30TH!***
-
-# ***The due date for Project #2 is pushed back to November 13th.***
-
-
 # Instructor
 
 Robert Domanski<br>
