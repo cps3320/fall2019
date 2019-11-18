@@ -1,3 +1,5 @@
+*** Reminder: EXAM this Wednesday (11/20) promptly at the start of class (45 minutes) ***
+
 # Instructor
 
 Robert Domanski<br>
