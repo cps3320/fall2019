@@ -1,4 +1,4 @@
-*** Reminder: EXAM this Wednesday (11/20) promptly at the start of class (45 minutes) ***
+<h1>*** Reminder: EXAM this Wednesday (11/20) promptly at the start of class (45 minutes) ***</h1>
 
 # Instructor
 
