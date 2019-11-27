@@ -3,7 +3,7 @@
 <h3>Your HW assignment (Part 1 of your final project) is due <b><u>Wed, Dec. 4th</u></b>.</h3>
 
 
-
+<hr>
 
 
 # Instructor
