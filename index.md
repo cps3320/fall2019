@@ -1,9 +1,7 @@
-<h1>*** Project #3 Assignment: https://bit.ly/2rxzy8c ***</h1>
+# *** Project #3 Assignment: <a href="https://bit.ly/2rxzy8c">https://bit.ly/2rxzy8c</a> ***
 
-<h3>Your HW assignment (Part 1 of your final project) is due <b><u>Wed, December 4th</u></b>.</h3>
+<h3>Your HW assignment (Part 1 of your final project) is due <b><u>Wed, Dec. 4th</u></b>.</h3>
 
-
-HAPPY THANKSGIVING!
 
 
 
