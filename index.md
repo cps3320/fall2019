@@ -1,4 +1,4 @@
-<h1>*** Reminder: EXAM this Wednesday (11/20) promptly at the start of class (45 minutes) ***</h1>
+<h1>*** Reminder: You must email your HW assignment (Part 1 of your final project) by Tuesday, Dec. 3rd.  HAPPY THANKSGIVING! ***</h1>
 
 # Instructor
 
