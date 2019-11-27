@@ -1,8 +1,9 @@
 <h1>*** Project #3 Assignment: https://bit.ly/2rxzy8c ***</h1>
 
-<h3>Reminder: You must email your HW assignment (Part 1 of your final project) by <b>Wednesday, December 4th</b>.
+<h3>Reminder: You must email your HW assignment (Part 1 of your final project) by <b><u>Wednesday, December 4th</u></b>.
+<p>
+HAPPY THANKSGIVING!</h3>
 
-HAPPY THANKSGIVING! ***</h3>
 
 # Instructor
 
