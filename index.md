@@ -122,5 +122,38 @@ Upon successful completion of this course, students will have advanced skills to
 -- Domain Names and Cybersquatting
 
 
+# November 4th
+
+- <b><a href="https://drive.google.com/open?id=1ZVfNLv0m7slZoaZVH6mN2Gi3O6NBA58h">Project #2 due next week</a></b>
+
+- Topics:
+-- Javascript Basics - when/why it's used in front-end development; syntax
+-- <a href="https://drive.google.com/file/d/17n-1QYdhXd7DzGzVVqAhf21Hh73aA2UT/view?usp=sharing">Javascript examples</a> (right-click to view source code);  Also, here is the <a href="https://drive.google.com/file/d/19gul-1k990Nda2Gkj751iplj3QYvn9Pg/view?usp=sharing">image</a> to go with that file.
+
+
+
+# November 11th
+
+- <b><a href="https://drive.google.com/file/d/1hK7AhExi0KUGyiXtTUzX6aB14Wew2oSb/view?usp=sharing">Review Sheet for the EXAM next week</a></b>
+
+- Project #2 Presentations!
+
+
+
+# November 18th
+
+- EXAM!
+
+- Topics:
+-- Javascript example: <a href="https://drive.google.com/file/d/1tNqe4TBdPOvGdkBQzCMvSxr80H29oKal/view?usp=sharing">Simple Redirect</a>
+-- Javascript example: <a href="https://drive.google.com/file/d/1WqpIoDgLlQXsHGOoeU3SMFHbJV85oQJS/view?usp=sharing">An online multiple choice quiz</a> (right-click to view source code)
+-- Javascript example: <a href="https://drive.google.com/file/d/1d3AzahPKroZCuZfI-454SjVkw34d6Hh1/view?usp=sharing">Adjusting content based on user's time and day</a> (right-click to view source code)
+
+
+
+# November 25th
+
+- <b>HOMEWORK</b> due next week:  Part #1 of your <a href="https://bit.ly/2rxzy8c">FINAL PROJECT</a> 
+
 
 
