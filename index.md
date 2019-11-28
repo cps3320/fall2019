@@ -126,9 +126,10 @@ Upon successful completion of this course, students will have advanced skills to
 
 - <b><a href="https://drive.google.com/open?id=1ZVfNLv0m7slZoaZVH6mN2Gi3O6NBA58h">Project #2 due next week</a></b>
 
-- Topics:
--- Javascript Basics - when/why it's used in front-end development; syntax
--- <a href="https://drive.google.com/file/d/17n-1QYdhXd7DzGzVVqAhf21Hh73aA2UT/view?usp=sharing">Javascript examples</a> (right-click to view source code);  Also, here is the <a href="https://drive.google.com/file/d/19gul-1k990Nda2Gkj751iplj3QYvn9Pg/view?usp=sharing">image</a> to go with that file.
+* Topics:
+  * Javascript Basics - when/why it's used in front-end development; syntax
+  * <a href="https://drive.google.com/file/d/17n-1QYdhXd7DzGzVVqAhf21Hh73aA2UT/view?usp=sharing">Javascript examples</a> (right-click to view source code) 
+    * Also, here is the <a href="https://drive.google.com/file/d/19gul-1k990Nda2Gkj751iplj3QYvn9Pg/view?usp=sharing">image</a> to go with that file.
 
 
 
