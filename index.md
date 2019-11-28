@@ -115,11 +115,11 @@ Upon successful completion of this course, students will have advanced skills to
 - <b>HOMEWORK</b> for next week:  <a href="https://drive.google.com/open?id=1ZVfNLv0m7slZoaZVH6mN2Gi3O6NBA58h">Project #2</a>!
 
 - <a href="https://drive.google.com/open?id=1LZfNCw-uiyQcbjhJz8o-mxZOpV0sFzUY">Slides</a>
-Topics:
-- UX/UI
-- Design Thinking
-- SEO
-- Domain Names and Cybersquatting
+* Topics:
+  * UX/UI
+  * Design Thinking
+  * SEO
+  * Domain Names and Cybersquatting
 
 
 # November 4th
