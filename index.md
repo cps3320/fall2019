@@ -145,10 +145,10 @@ Upon successful completion of this course, students will have advanced skills to
 
 - EXAM!
 
-- Topics:
--- Javascript example: <a href="https://drive.google.com/file/d/1tNqe4TBdPOvGdkBQzCMvSxr80H29oKal/view?usp=sharing">Simple Redirect</a>
--- Javascript example: <a href="https://drive.google.com/file/d/1WqpIoDgLlQXsHGOoeU3SMFHbJV85oQJS/view?usp=sharing">An online multiple choice quiz</a> (right-click to view source code)
--- Javascript example: <a href="https://drive.google.com/file/d/1d3AzahPKroZCuZfI-454SjVkw34d6Hh1/view?usp=sharing">Adjusting content based on user's time and day</a> (right-click to view source code)
+* Topics:
+  * Javascript example: <a href="https://drive.google.com/file/d/1tNqe4TBdPOvGdkBQzCMvSxr80H29oKal/view?usp=sharing">Simple Redirect</a>
+  * Javascript example: <a href="https://drive.google.com/file/d/1WqpIoDgLlQXsHGOoeU3SMFHbJV85oQJS/view?usp=sharing">An online multiple choice quiz</a> (right-click to view source code)
+  * Javascript example: <a href="https://drive.google.com/file/d/1d3AzahPKroZCuZfI-454SjVkw34d6Hh1/view?usp=sharing">Adjusting content based on user's time and day</a> (right-click to view source code)
 
 
 
