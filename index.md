@@ -162,10 +162,10 @@ Upon successful completion of this course, students will have advanced skills to
 
 - <b>HOMEWORK</b> due next week:  Part #2 of your <a href="https://bit.ly/2rxzy8c">FINAL PROJECT</a>
 
-- <a href="">Slides</a>
+- <a href="https://drive.google.com/file/d/1IvCIgNzBNO-e_iILQWaSul3YxM2W-v67/view?usp=sharing">Slides</a>
 * Topics:
   * jQuery, DOM, APIs, and Web frameworks
-  * <a href="">Cookies example</a>
+  * <a href="https://drive.google.com/file/d/1Gx6uNRWFNcf93GPjzaRy3e5Uq6myUMBo/view?usp=sharing">Cookies example</a>
   * Legal issues - Intellectual property, copyrights, public domain, the Fair Use doctrine, and Creative Commons licensing
   
 
