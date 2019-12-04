@@ -164,7 +164,7 @@ Upon successful completion of this course, students will have advanced skills to
 
 - <a href="">Slides</a>
 * Topics:
-  * jQuery, DOM, and Web frameworks
+  * jQuery, DOM, APIs, and Web frameworks
   * <a href="">Cookies example</a>
   * Legal issues - Intellectual property, copyrights, public domain, the Fair Use doctrine, and Creative Commons licensing
   
