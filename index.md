@@ -158,3 +158,15 @@ Upon successful completion of this course, students will have advanced skills to
 
 
 
+# December 4th
+
+- <b>HOMEWORK</b> due next week:  Part #2 of your <a href="https://bit.ly/2rxzy8c">FINAL PROJECT</a>
+
+- <a href="">Slides</a>
+* Topics:
+  * jQuery, DOM, and Web frameworks
+  * <a href="">Cookies example</a>
+  * Legal issues - Intellectual property, copyrights, public domain, the Fair Use doctrine, and Creative Commons licensing
+  
+
+
